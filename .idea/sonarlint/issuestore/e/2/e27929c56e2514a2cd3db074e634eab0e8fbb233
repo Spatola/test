@@ -1,0 +1,27 @@
+
+Z	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(É“P
+[	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(½Õ½±
+0
+java:S1220""Move this file to a named package.
+S
+java:S2589"8Remove this expression which always evaluates to "false"(Îßáıÿÿÿÿ
+8
+java:S1118"Hide this public constructor.(ĞèŒ®ùÿÿÿÿ
+;
+java:S3010"%Remove this assignment of "logError".(‹áşè
+B
+java:S3010"'Remove this assignment of "logMessage".(òŠáÎûÿÿÿÿ
+=
+java:S3010"'Remove this assignment of "logWarning".(İ”Š£
+@
+java:S3010"*Remove this assignment of "logToDatabase".(Ş«Ã÷
+<
+java:S3010"&Remove this assignment of "logToFile".(‡­
+?
+java:S3010")Remove this assignment of "logToConsole".(–şù
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€Åùÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(³€Åùÿÿÿÿ
+>
+java:S2201"(The return value of "trim" must be used.(ôµ¶¶
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ
